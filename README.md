@@ -22,7 +22,7 @@
 ## Screenshot Hasil Eksekusi
 Berikut adalah bukti saat program dijalankan:
 
-![screensot](Screenshot (37).png)
+![screensot](Screenshot.png)
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
