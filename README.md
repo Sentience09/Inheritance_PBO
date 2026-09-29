@@ -22,7 +22,7 @@
 ## Screenshot Hasil Eksekusi
 Berikut adalah bukti saat program dijalankan:
 
-![Screenshot Output]()
+![Screenshot Output](image.png)
 
 *(Pastikan untuk mengunggah file gambar dengan nama hasil_run.png ke dalam repositori GitHub ini).*
 
