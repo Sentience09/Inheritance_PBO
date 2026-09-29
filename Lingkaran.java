@@ -1,5 +1,5 @@
 public class Lingkaran extends Bentuk {
-    protected double radius;
+    private double radius;
     public static final double PI = 3.14;
 
     public Lingkaran(double radius, String warna) {
