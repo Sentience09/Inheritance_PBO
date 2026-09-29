@@ -22,10 +22,7 @@
 ## Screenshot Hasil Eksekusi
 Berikut adalah bukti saat program dijalankan:
 
-!(Screenshot (37).png)
-
-*(Pastikan untuk mengunggah file gambar dengan nama hasil_run.png ke dalam repositori GitHub ini).*
-
+![screensot](Screenshot (37).png)
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
